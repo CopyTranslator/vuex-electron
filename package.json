@@ -55,7 +55,5 @@
     "vuex": "^3.0.1"
   },
   "dependencies": {
-    "deepmerge": "^2.1.1",
-    "electron-store": "^2.0.0"
   }
 }
